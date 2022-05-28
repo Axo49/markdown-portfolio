@@ -1,0 +1,4 @@
+* apple
+* bin
+* cat
+* dog
